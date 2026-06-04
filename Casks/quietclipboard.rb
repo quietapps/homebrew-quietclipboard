@@ -1,6 +1,6 @@
 cask "quietclipboard" do
-  version "0.1.6"
-  sha256 "57202bf3ac36af5c1a92c36876ec737b6473a0f3d82b6f41475c6761f9e27720"
+  version "0.1.7"
+  sha256 "681c7efc7db17823593016fa4b4a08febb72dfee315e27d2fccf994c2b913177"
 
   url "https://github.com/quietapps/QuietClipboard/releases/download/#{version}/QuietClipboard-#{version}.zip",
       verified: "github.com/quietapps/QuietClipboard/"
